@@ -1,0 +1,5 @@
+{
+  "name": "BusJet - Ticket Booking System",
+  "description": "A modern and sleek frontend for a bus ticket booking management system. Users can search for buses, book tickets, and manage their reservations. Admins can manage bus routes and view customer information.",
+  "requestFramePermissions": []
+}
